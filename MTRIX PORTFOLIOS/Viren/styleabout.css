@@ -1,0 +1,132 @@
+body
+{
+	background-image: url("1571840659224.jpg");
+	background-color: #000000;
+	background-position: top;
+	background-repeat: no-repeat;
+}
+li a
+{	
+	float: left;
+	list-style-type: none;
+	margin-top: 15px;
+	display: inlne-block;
+	text-decoration: none;
+	color: #ffffff;
+	padding: 5px 20px;
+	border: 1px solid #ffffff;
+	background-image: url("1571840656592.jpg");
+}
+li a:hover
+{	
+	background-image: url("red.png");
+	color:#ffffff;
+
+}
+img
+{	
+	display: inline-block;
+	border-radius: 50px;
+	position: absolute;
+	top:7%;
+	left:45%;
+	border: 2px solid #ffffff;
+	padding: 5px;
+	width: 150px;
+}
+.rectangle1
+{
+	position: absolute;
+	top:40%;
+	left:43%;
+	font-family: monospace;
+	background-color:#000000;
+	color: #ffffff;
+}
+
+
+.rectangle2
+{	
+	position: absolute;
+	top: 50%;
+	left: 20%;
+	background-image: url("1571840656592.jpg");
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+.rectangle2 p
+{
+	color:white;
+	font-size:18px;
+	font-family: monospace;
+}
+.rectangle3
+{	
+	position: absolute;
+	top: 80%;
+	left: 30%;
+	background-image: url("red.png");
+	color: white;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+.rectangle3 p
+{	
+	color:white;
+	
+	font-size:18px;
+	font-family: monospace;
+}
+.rectangle3:hover:after
+{	padding:5px;
+	background-color: #000000;
+	content:"----85.69%age-----";
+}
+
+.rectangle4
+{	
+	position: absolute;
+	top: 80%;
+	left: 65%;
+	background-image: url("red.png");
+	color: #ffffff;
+	background-color: #ccffff;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+.rectangle4 p
+{
+	color:white;
+	
+	font-size:18px;
+	font-family: monospace;
+}
+.rectangle4:hover:after
+{	
+	padding:5px;
+	background-color: #000000;
+	content:'96.89310006%ile';
+}
+.rectangle5
+{	
+	position: absolute;
+	top: 50%;
+	right: 20%;
+	color:#ffffff;
+	background-image: url("1571840656592.jpg");
+	background-color: #ffffff;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+.rectangle5 p
+{
+	color:white;
+	font-size:18px;
+	font-family: monospace;
+}
+
+

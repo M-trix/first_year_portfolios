@@ -1,0 +1,45 @@
+body
+{
+	background-image: url("1571840659224.jpg");
+	background-color: #000000;
+	background-position: top;
+	background-repeat: no-repeat;
+}
+.icons
+{
+	
+	list-style-type: none;
+	margin-top: 200px;
+	padding: 50px;
+	margin-left: 270px;
+	
+	
+}
+.icons li
+{
+	display: inline-block;
+	padding:7px;
+	border: 10px #ffffff;
+	border-style: inset;
+}
+.icons li:hover
+{	
+	background-image: url("blue.png");
+
+}
+p a
+{	
+	color: #ffffff;
+	display: inline-block;
+	background-color: #ffffff;
+	text-decoration: none;
+	padding: 5px 20px;
+	border: 1px solid #ffffff;
+	background-image: url("1571840656592.jpg");
+	
+}
+p a:hover
+{
+	background-image: url("red.png");
+	color:#ffffff;
+}

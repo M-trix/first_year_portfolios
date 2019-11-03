@@ -1,0 +1,10 @@
+body{
+		background-image:url("ayimg.jpg");
+		background-size: cover;
+		background-repeat:no-repeat;
+		height:640px;
+		width:1300px;
+		background-size:cover;
+		font-family:tahoma;
+		font-size: 35px;
+    }

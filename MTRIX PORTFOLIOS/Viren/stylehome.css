@@ -1,0 +1,70 @@
+body
+{
+	background-image: url("1571840656446.jpg");
+	background-color: #000000;
+	background-position: top;
+	background-repeat: no-repeat;
+	
+}
+*
+{
+	margin: 0;
+	padding: 10;
+	font-family: Hack; 
+	
+}
+ul 
+{	
+	float: right;
+	list-style-type: none;
+	margin-top: 20px;
+	
+}
+ul li
+{
+	display: inline-block;
+}
+ul li a
+{	
+	background-color: #ffffff;
+	text-decoration: none;
+	color: #ffffff;
+	padding: 5px 20px;
+	border: 1px solid #ffffff;
+	background-image: url("1571840656592.jpg");
+	
+	
+}
+ul li a:hover
+{	
+	background-image: url("red.png");
+	color:#ffffff;
+
+}
+.title	
+{	
+	position: absolute;
+	top:45%;
+	left:36%;
+	
+	
+}
+.title h1
+{
+	color: #ffffff;
+	font-size: 50px;
+	font-family: Arial Black;
+	background-image: url("1571840656592.jpg");
+	
+	
+}
+p
+{
+	color: #ffffff;
+	position: absolute;
+	top: 25%;
+	left:5%;
+	font-size: 30px;
+	padding: 10px 20px;
+	
+}
